@@ -36,5 +36,5 @@
     float: none;
     border-right: 0;
   }
-  #details div {}
+  #details div {height: auto;}
 }
