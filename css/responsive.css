@@ -34,6 +34,6 @@
     width: 100%;
     margin-left: 0;
     float: none;
-    background-color: blue;
+    border-right: 0;
   }
 }
